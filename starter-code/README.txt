@@ -1,3 +1,26 @@
+Number and name of feature: ____Refactor CSS_____
+
+Estimate of time needed to complete: __2hrs___
+
+Start time: __11:38___
+
+Finish time: _____
+
+Actual time needed to complete: _____ (work in breaks)
+
+Number and name of feature: _________Modify Contents_________
+
+Estimate of time needed to complete: __2hrs___
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
