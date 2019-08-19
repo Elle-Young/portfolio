@@ -501,7 +501,7 @@ input, select, textarea {
 					padding-top: 80px;
 				} */
 
-		@media screen and (min-width: 961px) and (max-width: 1880px) {
+		/* @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.row {
 				display: flex;
@@ -744,9 +744,9 @@ input, select, textarea {
 							padding-top: 80px;
 						}
 
-		}
+		} */
 
-		@media screen and (min-width: 961px) and (max-width: 1620px) {
+		/* @media screen and (min-width: 961px) and (max-width: 1620px) {
 
 			.row {
 				display: flex;
@@ -989,9 +989,9 @@ input, select, textarea {
 							padding-top: 80px;
 						}
 
-		}
+		} */
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		/* @media screen and (min-width: 961px) and (max-width: 1320px) {
 
 			.row {
 				display: flex;
@@ -1234,8 +1234,8 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
-
+		} */
+/* 
 		@media screen and (max-width: 960px) {
 
 			.row {
@@ -1479,7 +1479,7 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
 		@media screen and (max-width: 736px) {
 
