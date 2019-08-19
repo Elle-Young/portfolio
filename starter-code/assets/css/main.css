@@ -1480,7 +1480,7 @@ input, select, textarea {
 						}
 
 		} */
-
+/* 
 		@media screen and (max-width: 736px) {
 
 			.row {
@@ -1724,7 +1724,7 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
 /* Sections/Article */
 
@@ -2019,7 +2019,7 @@ input, select, textarea {
 
 /* Header */
 
-	#header {
+	/* #header {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2156,7 +2156,7 @@ input, select, textarea {
 
 					#nav ul li a.active span:before {
 						color: #e27689;
-					}
+					} */
 
 /* Footer */
 
