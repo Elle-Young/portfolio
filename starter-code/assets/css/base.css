@@ -1,0 +1,12 @@
+/* base.css should contain any general styling on top of what is provided by a reset.css or normalize.css file (these files will be discussed in further detail in lecture)
+Apply to elements such as body and main
+Examples include styling of overall font and background color. */
+
+
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+ 
+html {
+    box-sizing: border-box;
+}  
