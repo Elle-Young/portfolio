@@ -77,10 +77,10 @@ input, select, textarea {
 	/* html {
 		box-sizing: border-box;
 	} */
-
+/* 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
+	} */
 
 	body {
 		background: #fff;
@@ -211,7 +211,7 @@ input, select, textarea {
 	}
 
 /* Container */
-
+/* 
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
@@ -257,7 +257,7 @@ input, select, textarea {
 			}
 
 		}
-
+ */
 /* Row */
 
 	.row {
