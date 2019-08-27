@@ -7,6 +7,10 @@ Examples include styling of overall font and background color. */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 html {
     box-sizing: border-box;
 }  
