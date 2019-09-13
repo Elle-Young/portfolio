@@ -1,18 +1,18 @@
-Number and name of feature: ____Refactor CSS_____
+Number and name of feature: ____Refactor CSS #1_____
 
-Estimate of time needed to complete: __2hrs___
+Estimate of time needed to complete: 1 hr
 
 Start time: __11:38___
 
-Finish time: _____
+Finish time: ___11:50 (ongoing)__
 
-Actual time needed to complete: _____ (work in breaks)
+Actual time needed to complete: I had some code previously that worked, so I will be refactoring more later. 
 
 Number and name of feature: _________Modify Contents_________
 
-Estimate of time needed to complete: __2hrs___
+Estimate of time needed to complete: ___2 hrs__
 
-Start time: _____
+Start time: __11:50am___
 
 Finish time: _____
 
