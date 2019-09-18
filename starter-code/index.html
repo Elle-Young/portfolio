@@ -16,6 +16,7 @@
 		<link rel="stylesheet" href="assets/css/nav.css" />
 		<link rel="stylesheet" href="assets/css/state.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/carousel.css" />
 
 	</head>
 	<body class="is-preload">
@@ -63,18 +64,21 @@
 			<div id="main">
 
 				<!-- Intro -->
-					<section id="top" class="one dark cover">
-						<div class="container">
-
-							<header>
-								<h2 class="alt">Hi! I'm <strong>Elle</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
+				<section id="top" class="one dark cover">
+					<div class="container">
+						<header>
+							<h2 class="alt">Hi! I'm <strong>Elle</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
 								site template designed by <a href="http://html5up.net">HTML5 UP</a>.</h2>
 								<p>Ligula scelerisque justo sem accumsan diam quis<br />
-								vitae natoque dictum sollicitudin elementum.</p>
-							</header>
-
-							<footer>
-								<a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+									vitae natoque dictum sollicitudin elementum.</p>
+								</header>
+								
+								<footer>
+									<div id="image-carousel">
+										<a id="left-button" class="button scrolly"><</a>
+										<a href="#portfolio" class="button scrolly">My Portfolio</a>
+										<a id="right-button" class="button scrolly">></a>
+									</div>
 							</footer>
 
 						</div>
@@ -210,6 +214,11 @@
 			<script src="assets/js/breakpoints.min.js"></script> <!--cdn not found-->
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script> <!--cdn not found-->
+			<script src="assets/js/carousel.js"></script>
+			<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
 
 	</body>
 </html>
