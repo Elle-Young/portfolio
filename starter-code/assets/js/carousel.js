@@ -19,7 +19,10 @@ $('#left-button').click(function() {
   }
   console.log('left-button clicked');
   console.log(images[reverseCounter]); // the new incremented value
-  $('.carousel-img').attr('src', `./artifacts/${images[reverseCounter]}`);
+  $('#top.one.dark.cover').css(
+    'background-image',
+    'url(' + `./artifacts/${images[reverseCounter]}` + ')'
+  );
 });
 
 $('#right-button').click(function() {
@@ -28,5 +31,13 @@ $('#right-button').click(function() {
   // the modulus (%) operator resets the counter to 0
   // when it reaches the length of the array
   console.log(images[counter]); // the new incremented value
-  $('.carousel-img').attr('src', `./artifacts/${images[counter]}`);
+  $('#top.one.dark.cover').css(
+    'background-image',
+    'url(' + `./artifacts/${images[counter]}` + ')'
+  );
 });
+
+$('#top.one.dark.cover').css(
+  'background-image',
+  'url(' + `./artifacts/${images[counter]}` + ')'
+);
